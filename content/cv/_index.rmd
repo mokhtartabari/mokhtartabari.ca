@@ -1,0 +1,5 @@
+---
+title: Curriculum vitae
+---
+
+Download my `r blogdown::shortcode('staticref', 'files/CV_September_2020.pdf', 'newtab')` CV `r blogdown::shortcode('/staticref')`
